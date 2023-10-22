@@ -1,0 +1,46 @@
+[
+    {
+        "name": "Web & Software",
+         "img": "https://www.creativeitinstitute.com/images/department/wd.png"
+         
+     },
+     {
+        "name": "Digital Marketing",
+        "img": "https://www.creativeitinstitute.com/images/department/dm.png"
+     },
+     {
+        "name": "3D Animation ",
+         "img": "https://www.creativeitinstitute.com/images/department/3d.png"
+         
+     },
+     {
+        "name": "Cyber Security",
+        "img": "https://www.creativeitinstitute.com/images/department/cy.png"
+     },
+     {
+        "name": "Network & tecnolegy",
+         "img": "https://www.creativeitinstitute.com/images/department/net.png"
+         
+     },
+     {
+        "name": "Graphic Design",
+        "img": "https://www.creativeitinstitute.com/images/department/gd.png"
+     },
+     {
+        "name": "Cloud Computing",
+         "img": "https://www.creativeitinstitute.com/images/department/aws.png"
+         
+     },
+     {
+        "name": "Robotic & Automotion",
+        "img": "https://www.creativeitinstitute.com/images/department/robot.png"
+     },
+     {
+        "name": "English Languge",
+        "img": "https://www.creativeitinstitute.com/images/department/lg.png"
+     },
+     {
+        "name": "Film & Media",
+        "img": "https://www.creativeitinstitute.com/images/department/ve.png"
+     }
+]
