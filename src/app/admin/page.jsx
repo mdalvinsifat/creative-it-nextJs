@@ -1,6 +1,6 @@
 "use client"
 import React, { useState } from 'react';
-import '../Login/login.css'
+import '../login/Login.css'
 
 import axios from 'axios'
 import LayOut from '../Layout/LayOut';
