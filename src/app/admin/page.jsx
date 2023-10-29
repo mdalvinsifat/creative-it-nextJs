@@ -1,7 +1,6 @@
 "use client"
 import React, { useState } from 'react';
-import '../login/Login.css'
-
+import './admin.css'
 import axios from 'axios'
 import LayOut from '../Layout/LayOut';
 import { useRouter } from 'next/navigation';
@@ -24,6 +23,7 @@ const SignIn = async (e)=>{
 }
     return (
         <div>
+  
             <LayOut>
          <div className='background-login'>
  <div className="login">
