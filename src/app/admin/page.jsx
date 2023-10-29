@@ -12,13 +12,19 @@ const [password , SetPassword]= useState("")
 const SignIn = async (e)=>{
     e.preventDefault()
     try {
-        await axios.post(`http://localhost:3000/api/auth/login`,{
+       const res =  await axios.post(`http://localhost:3000/api/auth/login`,{
             email,
             password
         })
-       router.push("/admin/create")
+        if (res && res.data.success){
+          router.push("/admin/create")
+        }
+        else {
+          alert("error")
+        }
     } catch (error) {
-        console.log(error)
+      console.log(error)
+      
     }
 }
     return (
